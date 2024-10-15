@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"pastbear"
+	],
+	"copyright": "Copyright © 2024, pastbear",
+	"description": "a simple cli file manager",
+	"license": "Unlicense",
+	"name": "file-manager-cli"
+}
